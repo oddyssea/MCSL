@@ -1,0 +1,17 @@
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\bin\Debug\MinecraftServerLauncher.exe.config
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\bin\Debug\MinecraftServerLauncher.exe
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\bin\Debug\MinecraftServerLauncher.pdb
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.csproj.AssemblyReference.cache
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.FirstTimeLaunchForm.resources
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.MCServerLauncherMainForm.resources
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.Properties.Resources.resources
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.csproj.GenerateResource.cache
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.csproj.CoreCompileInputs.cache
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.exe
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.pdb
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\bin\Debug\ConfigParser.dll
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.csproj.CopyComplete
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\bin\Debug\MinecraftServerLauncher.exe.manifest
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\bin\Debug\MinecraftServerLauncher.application
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.exe.manifest
+C:\Users\svradmin\source\repos\MinecraftServerLauncher\obj\Debug\MinecraftServerLauncher.application
