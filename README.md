@@ -13,13 +13,15 @@ an intuitive interface for interacting with the server files provided by Mojang.
 ---------
 - Seamless integration
 - Easy server setup
-- World management
+- World management capability
 
 **Future Endeavors:**
 -----------------
 - Performance/resource monitoring tools
 - Automatic version updates
 - Mod management
+- Optimize world management
+- Further integration of 'server.properties' file
 
 ************************************************************************************************************
 
